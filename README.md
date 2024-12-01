@@ -1,1 +1,1 @@
-# underwater-plastic_detection
+# underwater-plastic
